@@ -3,18 +3,27 @@ margin 0;
 padding 0;
 }
 
-.cabeçalho{
+.cabecalho{
     background-color: #696565;
     color: aqua;
     display: flex;
     justify-content: space-around;
 }
 
-.cabeçalho-imagem{
+.cabecalho-imagem{
     width: 50%;
 }
 
-.cabeçalho-lista-item{
+.cabecalho-lista-item{
 display: inline-block;
 margin: 0 16px;
+}
+
+.Programacao-div-conteudo{
+    width: 65;
+
+}
+
+.Programcao-titulo{
+    padding: 50px;
 }
